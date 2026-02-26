@@ -6,6 +6,7 @@
 
 Made with ❤️ by [Cross Sonic](https://crosssonic.com/) 
 
+> Note: This repository is a fork and currently has no specific development intention.
 
 A feature-rich cross-platform webview using [webview_flutter](https://pub.dev/packages/webview_flutter) for mobile and [iframe](https://api.flutter.dev/flutter/dart-html/IFrameElement-class.html) for web. JS interop-ready.
 
